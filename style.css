@@ -50,3 +50,15 @@
     background-color: rgb(242, 240, 240);
     padding-bottom: 50px;
   }
+
+  /*About*/
+.container-background {
+  background-color: rgb(49, 49, 49);
+}
+
+.profile-picture {
+ width: 30%;
+ border-radius: 300px;
+ object-fit: cover;
+
+}
