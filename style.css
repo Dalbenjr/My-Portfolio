@@ -33,3 +33,20 @@
 .intro-text .name {
   font-size: 60px;
 }
+
+/*Portfolio*/
+.aspectRatioBox {
+  padding-top: calc(2 / 4 * 100%);
+  background-size: cover;
+  background-position: center;
+  }
+  
+  .project-titles {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  
+  .background-color {
+    background-color: rgb(242, 240, 240);
+    padding-bottom: 50px;
+  }
