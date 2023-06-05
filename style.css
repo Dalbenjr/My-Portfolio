@@ -33,6 +33,14 @@
 .intro-text .name {
   font-size: 60px;
 }
+ 
+@media (max-width: 567px) {
+  .position {
+    font-size: 13px;
+  }
+}
+
+
 
 /*Portfolio*/
 .aspectRatioBox {
