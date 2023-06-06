@@ -2,7 +2,7 @@
 .background {
   background-image: url(./pictures/R.jpg);
   background-size: cover;
-  background-position: center bottom;
+  background-position: center;
   height: 100vh;
   
 }
